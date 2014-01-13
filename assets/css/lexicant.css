@@ -1,0 +1,12 @@
+.adsbygoogle, .adblocker {
+    margin: 0 25%;
+}
+.adblocker {
+    width: 300px;
+    font-size: 10px;
+    line-height: 1;
+}
+#disqus_thread {
+    width: 50%;
+    margin: auto;
+}
